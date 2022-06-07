@@ -1,0 +1,148 @@
+[
+    {
+      "name": "X Pass",
+      "game": "top",
+      "position": "neutral",
+      "skill": "beginner"
+    },
+    {
+      "name": "Leg Drag",
+      "game": "top",
+      "position": "neutral",
+      "skill": "intermediate"
+    },
+    {
+      "name": "Body Lock Pass",
+      "game": "top",
+      "position": "neutral",
+      "skill": "advanced"
+    },
+    {
+      "name": "Control Side Mount",
+      "game": "top",
+      "position": "side mount",
+      "skill": "beginner"
+    },
+    {
+      "name": "Side Mount Arm Bar",
+      "game": "top",
+      "position": "side mount",
+      "skill": "intermediate"
+    },
+    {
+      "name": "Side Mount Twister",
+      "game": "top",
+      "position": "side mount",
+      "skill": "advanced"
+    },
+    {
+      "name": "Mount Control",
+      "game": "top",
+      "position": "mount",
+      "skill": "beginner"
+    },
+    {
+      "name": "Mounted Head and Arm Choke",
+      "game": "top",
+      "position": "mount",
+      "skill": "intermediate"
+    },
+    {
+      "name": "Mounted Arm Bar",
+      "game": "top",
+      "position": "mount",
+      "skill": "advanced"
+    },
+    {
+      "name": "Control Rear Mount",
+      "game": "top",
+      "position": "rear mount",
+      "skill": "beginner"
+    },
+    {
+      "name": "Rear Naked Choke",
+      "game": "top",
+      "position": "rear mount",
+      "skill": "intermediate"
+    },
+    {
+      "name": "Rear Mounted Triangle",
+      "game": "top",
+      "position": "rear mount",
+      "skill": "advanced"
+    },
+    {
+      "name": "Guard Retention",
+      "game": "bottom",
+      "position": "neutral",
+      "skill": "beginner"
+    },
+    {
+      "name": "Dummy Sweep",
+      "game": "bottom",
+      "position": "neutral",
+      "skill": "intermediate"
+    },
+    {
+      "name": "Wrestle Up",
+      "game": "bottom",
+      "position": "neutral",
+      "skill": "advanced"
+    },
+    {
+      "name": "Side Mount Elbow Escape",
+      "game": "bottom",
+      "position": "side mount",
+      "skill": "beginner"
+    },
+    {
+      "name": "Sit Up Escape",
+      "game": "bottom",
+      "position": "side mount",
+      "skill": "intermediate"
+    },
+    {
+      "name": "Ghost Escape",
+      "game": "bottom",
+      "position": "side mount",
+      "skill": "advanced"
+    },
+    {
+      "name": "Hip Bump Escape",
+      "game": "bottom",
+      "position": "mount",
+      "skill": "beginner"
+    },
+    {
+      "name": "Elbow Escape",
+      "game": "bottom",
+      "position": "mount",
+      "skill": "intermediate"
+    },
+    {
+      "name": "Kipping Escape",
+      "game": "bottom",
+      "position": "mount",
+      "skill": "advanced"
+    },
+    {
+      "name": "RNC Defense",
+      "game": "bottom",
+      "position": "rear mount",
+      "skill": "beginner"
+    },
+    {
+      "name": "Back Escape",
+      "game": "bottom",
+      "position": "rear mount",
+      "skill": "intermediate"
+    },
+     {
+      "name": "Body Triangle Escape",
+      "game": "bottom",
+      "position": "rear mount",
+      "skill": "advanced"
+    }
+  ]
+  
+  
